@@ -4,4 +4,5 @@ problematic af
 
 
 # why was this so hard to find
-(icon)[https://www.icon-model.org/]
+need to install icon into repo
+(https://www.icon-model.org/)[icon]
